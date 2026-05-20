@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+build/
+dist/
+web/build/
+*.spec
+err.log
+error_log.txt
+stderr_log.txt
+out.log
+stdout_log.txt
+pygbag_err.txt
+pygbag_out.txt
+*.egg-info/
